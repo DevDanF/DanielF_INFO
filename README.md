@@ -22,8 +22,6 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-</div>
-<div>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/DevDanF/github-readme-stats) 
 
     
