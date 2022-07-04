@@ -10,7 +10,7 @@
 - I live in Canada
 - I love Software Development and Web Development. My favourite activity is to experiment using different code languages. 
 
-### Languages and Tools:
+### Languages, Tools, and Extra:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -23,7 +23,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 
-### Extra:
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/DevDanF/github-readme-stats) 
 
     
