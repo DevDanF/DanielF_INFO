@@ -7,5 +7,5 @@
 </div>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF)](https://github.com/DevDanF/github-readme-stats)
 </div>
