@@ -11,7 +11,6 @@
 - I love Software Development and Web Development. My favourite activity is to experiment using different code languages. 
 
 ### Languages, Tools, and Extra:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -33,6 +32,8 @@
 
 
 ### Connect with me:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dan-figotin-216269228/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dan-figotin-216269228/#gh-dark-mode-only)
 
 <br />
 <br />
