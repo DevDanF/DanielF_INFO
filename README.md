@@ -2,7 +2,7 @@
     
 # Daniel Figotin
 
-  Software Developer And A Student At Carleton University
+  Software Developer And A Student At Carleton University
 
 </div>
 <div align="center">
