@@ -2,7 +2,7 @@
     
 # Daniel Figotin
 
-  Software Developer And A Student At Carleton University [Honours Computer Science Program, Software Engineering Stream]
+  Software Developer And A Student At Carleton University | Program: Honours In Computer Science; Stream: Software Engineering
 
 </div>
 <div align="center">
