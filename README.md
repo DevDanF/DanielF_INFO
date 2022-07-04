@@ -5,11 +5,6 @@
   Software Developer And A Student At Carleton University | Program: Honours In Computer Science; Stream: Software Engineering
 
 </div>
-
-## About Me:
-- I live in Canada
-- I love Software Development and Web Development. My favourite activity is to experiment using different code languages. 
-
 ### Languages, Tools, and Extra:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -30,12 +25,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanF&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/DevDanF/github-readme-stats) 
 
 
-
-### Connect with me:
-
-
-
-<br />
-<br />
 
 ---
