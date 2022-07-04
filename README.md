@@ -15,9 +15,9 @@
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <div align="center">
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF&show_icons=true&theme=gruvbox)](https://github.com/DevDanF/github-readme-stats) |
-| ------------- | ------------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF&show_icons=true&theme=gruvboxhide_border=true)](https://github.com/DevDanF/github-readme-stats) |
+
     
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanF&show_icons=true&theme=gruvbox)](https://github.com/DevDanF/github-readme-stats) |
-| ------------- | ------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDanF&show_icons=true&theme=gruvboxhide_border=true)](https://github.com/DevDanF/github-readme-stats) |
+
 </div>
