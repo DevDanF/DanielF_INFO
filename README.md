@@ -18,16 +18,9 @@ const daniel = {
   code: [Javascript, HTML, CSS, Python, Java],
   languages: [English, Russian, Hebrew],
   planToLearn: [Typescript, React, Bootstrap, Sass, Tailwind],
- challenge: "I am currently working on a productivity & note-taking app"
+ challenge: "I am currently working on a productivity and note taking app"
 }
 ```
-
-<!-- <div align="center">
-  <h2> <strong> Actively Learning and Practicing </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,latex" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn  </strong></h2>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,ts" alt="skills planning to learn logos">
-</div> -->
 
 
 
