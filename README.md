@@ -1,22 +1,18 @@
-<div align="center">
-    
-# Daniel Figotin
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Hey%2C+I'm+Daniel%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-  Software Developer And A Student At Carleton University | Program: Honours In Computer Science; Stream: Software Engineering
+<div align="center">
+
+Digital Craftsman (Developer|Designer) | Studying at Carleton University in the B.C.S; SE stream program :D
 
 </div>
 <div align="center">
     
-### Languages, Tools, and Extra:
-<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+* Hi, my name is Daniel Figotin and I'm a digital craftsman. <br />
+    Currently working on the following projects:
+    -Portfolio Website
+    -
 
-<img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+*Interest: Web Development, 3D Modeling, and Coffee.
 
 <br />
 <br />
