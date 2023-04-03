@@ -5,7 +5,6 @@
 Digital Craftsman (Developer|Designer) | Studying at Carleton University in the B.C.S; SE stream program :D
 
 </div>
-<div align="center">
     
 * Hi, my name is Daniel Figotin and I'm a digital craftsman. <br>
     Currently working on the following projects:
@@ -17,7 +16,5 @@ Digital Craftsman (Developer|Designer) | Studying at Carleton University in the 
 <br />
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDanF&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/DevDanF/github-readme-stats) 
-
-</div>
 
 ---
