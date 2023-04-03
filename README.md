@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Hey%2C+I'm+Daniel%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?align="middle"&font=Fira+Code&size=18&pause=1000&width=435&lines=Hey%2C+I'm+Daniel%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -7,12 +7,11 @@ Digital Craftsman (Developer|Designer) | Studying at Carleton University in the 
 </div>
 <div align="center">
     
-* Hi, my name is Daniel Figotin and I'm a digital craftsman. <br />
+* Hi, my name is Daniel Figotin and I'm a digital craftsman. <br>
     Currently working on the following projects:
-    -Portfolio Website
-    -
+    - Portfolio Website <br>
 
-*Interest: Web Development, 3D Modeling, and Coffee.
+* Interest: Web Development, 3D Modeling, and Coffee. <br><br>
 
 <br />
 <br />
