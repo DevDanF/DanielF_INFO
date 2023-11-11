@@ -16,7 +16,7 @@
 ```javascript
 const daniel = {
   code: [Javascript, HTML, CSS, Python, Java],
-  languages: [English, Russian, Hebrew],
+  languages: [English, Russian],
   planToLearn: [Typescript, React, Bootstrap, Sass, Tailwind],
  challenge: "I am currently working on a productivity and note taking app"
 }
